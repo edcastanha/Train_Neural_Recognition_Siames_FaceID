@@ -1,0 +1,18 @@
+/.venv
+/__pycache__
+
+
+# Unit test / coverage reports
+.coverage
+htmlcov
+.tox
+
+
+# Dojango
+/static
+/media
+/templates
+/local_settings.py
+
+data/anchor/*
+data/positive/*
