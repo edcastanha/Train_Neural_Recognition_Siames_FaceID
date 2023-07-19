@@ -7,12 +7,14 @@
 htmlcov
 .tox
 
+demo/data/anchor/*
+demo/data/positive/*
+demo/data/negative/*
 
-# Dojango
-/static
-/media
-/templates
-/local_settings.py
+jupter/data/anchor/*
+jupter/data/positive/*
+jupter/data/negative/*
 
-data/anchor/*
-data/positive/*
+
+# RabbitMQ
+demo/rabbitMQ/*
