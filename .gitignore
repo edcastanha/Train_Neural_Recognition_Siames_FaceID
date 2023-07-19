@@ -18,3 +18,5 @@ jupter/data/negative/*
 
 # RabbitMQ
 demo/rabbitMQ/*
+jupter/rabbitMQ/*
+
