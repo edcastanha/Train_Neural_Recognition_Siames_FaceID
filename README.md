@@ -42,9 +42,6 @@
     pt: Configurar Logger
 
 
-Get the code: https://github.com/nicknochnack/FaceR...
-Final App: https://github.com/nicknochnack/FaceI...
-
 Links
 Paper: https://www.cs.cmu.edu/~rsalakhu/pape...
 Labelled Faces in the Wild: http://vis-www.cs.umass.edu/lfw/
